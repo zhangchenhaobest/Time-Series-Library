@@ -1,3 +1,29 @@
+# Time-Series-Library
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A Library for Advanced Deep Time Series Models for General Time Series Analysis.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+面向通用时间序列分析的先进深度时间序列模型库。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # Time Series Library (TSLib)
 TSLib is an open-source library for deep learning researchers, especially for deep time series analysis.
 
